@@ -1,6 +1,6 @@
 # Channel Online
 
-Get all the online users from a channel.
+List all online users of a channel..
 
 | URL | Requires Auth | HTTP Method |
 | :--- | :--- | :--- |
@@ -38,4 +38,4 @@ curl -H "X-Auth-Token: 9HqLlyZOugoStsXCUfD_0YdwnNnunAJF8V47U3QHXSq" \
 
 | Version | Description |
 | :--- | :--- |
-| 0.48.0 | Added |
+| 0.52.0 | Added |
