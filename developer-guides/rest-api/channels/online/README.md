@@ -17,7 +17,7 @@ List all online users of a channel.
 ```bash
 curl -H "X-Auth-Token: 9HqLlyZOugoStsXCUfD_0YdwnNnunAJF8V47U3QHXSq" \
      -H "X-User-Id: aobEdbYhXfu5hkeqG" \
-     http://localhost:3000/api/v1/channels.online?roomId=74nd3hTbYrZbiTDp6 
+     http://localhost:3000/api/v1/channels.online?roomId=74nd3hTbYrZbiTDp6
 ```
 
 ## Example Result
