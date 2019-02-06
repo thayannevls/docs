@@ -1,6 +1,6 @@
 # Channel Online
 
-List all online users of a channel..
+List all online users of a channel.
 
 | URL | Requires Auth | HTTP Method |
 | :--- | :--- | :--- |
